@@ -44,6 +44,9 @@ function Board(){
         setHistory([null,null,null,null,null,null,null,null,null]);
         setWinner(false);
         setTurn("X")
+        if(draw){
+            setDraw(false)
+        }
     }
 
     if(!winner && checkWinner()){
