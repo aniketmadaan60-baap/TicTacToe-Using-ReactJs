@@ -7,7 +7,8 @@ export const Styles = [
         borderBottomWidth: "2px",
         borderTopWidth: "0px",
         borderLeftWidth: "0px",
-        backgroundColor:"white"
+        backgroundColor:"white",
+        fontSize:"20px"
     },
     {
         height: '80px',
@@ -17,7 +18,8 @@ export const Styles = [
         borderBottomWidth: "2px",
         borderTopWidth: "0px",
         borderLeftWidth: "2px",
-        backgroundColor:"white"
+        backgroundColor:"white",
+        fontSize:"20px"
     },
     {
         height: '80px',
@@ -27,7 +29,8 @@ export const Styles = [
         borderBottomWidth: "2px",
         borderTopWidth: "0px",
         borderLeftWidth: "2px",
-        backgroundColor:"white"
+        backgroundColor:"white",
+        fontSize:"20px"
     },
     {
         height: '80px',
@@ -37,7 +40,8 @@ export const Styles = [
         borderBottomWidth: "2px",
         borderTopWidth: "2px",
         borderLeftWidth: "0px",
-        backgroundColor:"white"
+        backgroundColor:"white",
+        fontSize:"20px"
     },
     {
         height: '80px',
@@ -47,7 +51,8 @@ export const Styles = [
         borderBottomWidth: "2px",
         borderTopWidth: "2px",
         borderLeftWidth: "2px",
-        backgroundColor:"white"
+        backgroundColor:"white",
+        fontSize:"20px"
     },
     {
         height: '80px',
@@ -57,7 +62,8 @@ export const Styles = [
         borderBottomWidth: "2px",
         borderTopWidth: "2px",
         borderLeftWidth: "2px",
-        backgroundColor:"white"
+        backgroundColor:"white",
+        fontSize:"20px"
     },
     {
         height: '80px',
@@ -67,7 +73,8 @@ export const Styles = [
         borderBottomWidth: "0px",
         borderTopWidth: "2px",
         borderLeftWidth: "0px",
-        backgroundColor:"white"
+        backgroundColor:"white",
+        fontSize:"20px"
     },
     {
         height: '80px',
@@ -77,7 +84,8 @@ export const Styles = [
         borderBottomWidth: "0px",
         borderTopWidth: "2px",
         borderLeftWidth: "2px",
-        backgroundColor:"white"
+        backgroundColor:"white",
+        fontSize:"20px"
     },
     {
         height: '80px',
@@ -87,7 +95,8 @@ export const Styles = [
         borderBottomWidth: "0px",
         borderTopWidth: "2px",
         borderLeftWidth: "2px",
-        backgroundColor:"white"
+        backgroundColor:"white",
+        fontSize:"20px"
     },
 
   ];
