@@ -93,7 +93,7 @@ function Board(){
                 )
             }
             <div className="restartBtnContainer">
-                {winner ? (<button className="restartBtn" onClick={restartGame}>Restart Game</button>) : null}
+                {(winner || draw) ? (<button className="restartBtn" onClick={restartGame}>Restart Game</button>) : null}
             </div>
         </div>
     )
